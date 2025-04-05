@@ -9,8 +9,6 @@
 ## 🌐 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/muragesh-c-nyamagoud-459166249/)
 - 📧 Email: [muragesh24@iitk.ac.in](mailto:muragesh24@iitk.ac.in)
-- 📱 Phone: [9353466456](tel:9353466456)
-- [GitHub](https://github.com/Muragesh-24)
 - [Instagram](https://www.instagram.com/iam.muragesh/)
 
 ---
