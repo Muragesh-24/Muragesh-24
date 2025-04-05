@@ -1,16 +1,66 @@
-## Hi there 👋
+# 👋 Hey there, I'm Muragesh Nyamagoud
 
-<!--
-**Muragesh-24/Muragesh-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student at **IIT Kanpur**  
+💻 Full-Stack Developer | 🧠 AI/ML Enthusiast | 🔍 Problem Solver  
+📍 Passionate about building real-world projects, exploring tech, and creating impact.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/muragesh-c-nyamagoud-459166249/)
+- 📧 Email: [muragesh24@iitk.ac.in](mailto:muragesh24@iitk.ac.in)
+- 📱 Phone: [9353466456](tel:9353466456)
+- [GitHub](https://github.com/Muragesh-24)
+- [Instagram](https://www.instagram.com/iam.muragesh/)
+
+---
+
+## 🎓 College
+
+**Indian Institute of Technology Kanpur (IIT Kanpur)**  
+_Bachelor of Technology (B.Tech) in Civil Engineering_  
+📅 **2024 - 2028**
+
+---
+
+## 🛠️ Skills
+
+- **Languages & Frameworks:** C, Python, JavaScript, HTML, CSS, Go  
+- **Full-Stack:** MERN Stack (MongoDB, Express.js, React.js, Node.js)  
+- **AI/ML Tools:** OpenCV, CNN & ANN (TensorFlow), NumPy, Pandas, Scikit-learn  
+- **Other Skills:** Backend Development with Go, Content Strategy, Problem Solving
+
+---
+
+## 💼 Experience
+
+### 📌 Content Supporter – *JEE Compass*
+- Contributed to content development for a student-led startup from **IIT Bombay**.
+- Helped curate educational resources and support platform growth.
+
+### 💻 Full-Stack Developer – *Spring Camp, Programming Club IIT Kanpur*
+- Gained hands-on experience in full-stack web development using the **MERN** stack.
+- Built dynamic and interactive web applications.
+
+### 🧪 Personal Projects
+- **EngiGrow:** A collaboration platform for students and professionals.
+- **IntleeBot:** A chatbot built using API integration.
+- **Password Vault:** A secure vault system developed in **Go**.
+
+---
+
+## 🎯 Hobbies
+
+- 💻 Coding and Problem Solving  
+- 📖 Reading Tech Blogs  
+- 🏃 Running  
+- ✈️ Traveling
+
+---
+
+## 📌 My Motto
+> *"Build fast. Learn faster. Stay curious."*
+
+---
+
+#### 🔍 Check out my repositories to see what I'm building!
