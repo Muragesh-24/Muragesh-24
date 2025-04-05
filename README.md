@@ -36,8 +36,8 @@ _Bachelor of Technology (B.Tech) in Civil Engineering_
 - Contributed to content development for a student-led startup from **IIT Bombay**.
 - Helped curate educational resources and support platform growth.
 
-### 💻 Full-Stack Developer – *Spring Camp, Programming Club IIT Kanpur*
-- Gained hands-on experience in full-stack web development using the **MERN** stack.
+### 💻 Full-Stack Development – *Spring Camp, Programming Club IIT Kanpur*
+- Gained hands-on experience in full-stack web development.
 - Built dynamic and interactive web applications.
 
 ### 🧪 Personal Projects
