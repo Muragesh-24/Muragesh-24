@@ -7,7 +7,7 @@
 ---
 
 ## 🌐 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/muragesh-c-nyamagoud-459166249/)
+- [LinkedIn](https://www.linkedin.com/in/muragesh-nyamagoud-459166249/)
 - 📧 Email: [muragesh24@iitk.ac.in](mailto:muragesh24@iitk.ac.in)
 - [Instagram](https://www.instagram.com/iam.muragesh/)
 
