@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Muragesh Nyamagoud
 
 🎓 B.Tech Student at **IIT Kanpur**  
-💻 Full-Stack Developer | 🧠 AI/ML Enthusiast | 🔍 Problem Solver  
+💻 Full-Stack , AI/ML Enthusiast | 🔍 Problem Solver  
 📍 Passionate about building real-world projects, exploring tech, and creating impact.
 
 ---
