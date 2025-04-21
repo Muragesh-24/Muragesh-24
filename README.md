@@ -38,7 +38,7 @@ _Bachelor of Technology (B.Tech) in Civil Engineering_
 
 ### 💻 Full-Stack Development – *Spring Camp, Programming Club IIT Kanpur*
 - Gained hands-on experience in full-stack web development.
-- Built dynamic and interactive web applications.
+- Built dynamic and interactive web application.
 
 ### 🧪 Personal Projects
 - **EngiGrow:** A collaboration platform for students and professionals.
