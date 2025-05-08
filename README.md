@@ -53,8 +53,6 @@ _Bachelor of Technology (B.Tech) in Civil Engineering_
 
 ## 💼 Experience
 
-### 📌 Content Supporter – *JEE Compass*
-- Contributed to content development for a student-led startup from **IIT Bombay**.
 
 ### 💻 Full-Stack Development – *Spring Camp, Programming Club IIT Kanpur*
 - Gained hands-on experience in full-stack web development.
