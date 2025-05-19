@@ -26,7 +26,7 @@ _Bachelor of Technology (B.Tech) in Civil Engineering_
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muragesh-24&layout=compact&theme=tokyonight)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Muragesh-24&theme=tokyonight)](https://git.io/streak-stats)
+
 
 ---
 <p>
