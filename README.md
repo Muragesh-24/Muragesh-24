@@ -11,15 +11,7 @@
 -  Email: [muragesh24@iitk.ac.in](mailto:muragesh24@iitk.ac.in)
 - [Instagram](https://www.instagram.com/iam.muragesh/)
 
----
 
-##  College
-
-**Indian Institute of Technology Kanpur (IIT Kanpur)**  
-_Bachelor of Technology (B.Tech) in Civil Engineering_  
- **2024 - 2028**
-
----
 ###  GitHub Stats:
 
 
