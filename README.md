@@ -42,37 +42,7 @@ _Bachelor of Technology (B.Tech) in Civil Engineering_
 
 </p>
 
-##  Skills
 
-- **Languages & Frameworks:** C, Python, JavaScript, HTML, CSS, Go  
-- **Full-Stack:** MERN Stack (MongoDB, Express.js, React.js, Node.js)  
-- **AI/ML Tools:** OpenCV, CNN & ANN (TensorFlow), NumPy, Pandas, Scikit-learn  
-- **Other Skills:** Backend Development with Go, Content Strategy, Problem Solving
-
----
-
-##  Experience
-
-
-###  Full-Stack Development – *Spring Camp, Programming Club IIT Kanpur*
-- Gained hands-on experience in full-stack web development.
-- Built dynamic and interactive web application.
-
-###  Personal Projects
-- **EngiGrow:** A collaboration platform for students and professionals.
-- **IntleeBot:** A chatbot built using API integration.
-- **Password Vault:** A secure vault system developed in **Go**.
-
----
-
-##  Hobbies
-
--  Coding and Problem Solving  
--  Reading Tech Blogs  
--  Running  
--  Traveling
-
----
 
 ##  My Motto
 > *"Build fast. Learn faster. Stay curious."*
