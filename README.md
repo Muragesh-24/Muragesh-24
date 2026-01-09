@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Muragesh Nyamagoud
 
  B.Tech Student at **IIT Kanpur**  
- Full-Stack , Software | 🔍 Problem Solver  
+ Full-Stack , Software | Problem Solver  
  Passionate about building real-world projects, exploring tech.
 
 ---
