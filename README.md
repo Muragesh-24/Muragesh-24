@@ -35,7 +35,7 @@
 
 
 
-##  My Motto
+
 > *"Build fast. Learn faster. Stay curious."*
 
 ---
