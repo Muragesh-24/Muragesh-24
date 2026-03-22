@@ -16,6 +16,10 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muragesh-24&layout=compact&theme=tokyonight)<br>
+## My GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muragesh-24&show_icons=true&theme=dark)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Muragesh-24&theme=tokyonight)](https://git.io/streak-stats)
 
 
