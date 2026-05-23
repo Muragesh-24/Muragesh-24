@@ -15,14 +15,22 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muragesh-24&layout=compact&theme=tokyonight)<br>
-## My GitHub Statistics
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muragesh-24&theme=tokyonight" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muragesh-24&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muragesh-24&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muragesh-24&theme=tokyonight" />
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Muragesh-24&theme=tokyonight)](https://git.io/streak-stats)
-
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muragesh-24&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muragesh-24&theme=tokyonight&utcOffset=5.5" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muragesh-24&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage" />
+</p>
 ---
 <p>
   <img alt="MERN" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
