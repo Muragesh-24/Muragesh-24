@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Muragesh Nyamagoud
 
-**B.Tech @ IIT Kanpur** • **Software Engineer** • **Full Stack Developer** • **Backend Engineer**
+**B.Tech @ IIT Kanpur** • **Full Stack Developer** • **Backend Engineer**
 
-Building scalable backend systems, cloud-native applications, and modern web experiences.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/muragesh-nyamagoud-459166249/">
@@ -50,4 +49,3 @@ Building scalable backend systems, cloud-native applications, and modern web exp
 
 ---
 
-> *"Build software that's simple, reliable, and built to last."*
