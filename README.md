@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muragesh Nyamagoud
 
-**B.Tech @ IIT Kanpur** • **Full Stack Developer** • **Backend Engineer**
+**B.Tech @ IIT Kanpur** • **Full Stack** • **Backend**
 
 
 <p align="left">
